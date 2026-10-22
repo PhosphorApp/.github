@@ -1,6 +1,6 @@
 # Phosphor
 
-**A music jukebox for virtual pinball cabinets — and a capable stand-alone desktop media player.**
+**A media player and jukebox for virtual pinball cabinets — and a capable stand-alone desktop media player.**
 
 Phosphor plays music videos across a cabinet's screens (playfield, backglass, topper, DMD)
 with audio-reactive animated visuals and optional DOF cabinet lighting.
